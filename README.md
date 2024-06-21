@@ -1,0 +1,2 @@
+# rustlab
+me learning rust 🦀
